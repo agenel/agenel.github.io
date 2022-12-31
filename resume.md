@@ -9,7 +9,7 @@ Current Position Description
 
 `1990 - 1994`
 __University Name__
-Degree Awarded
+Degree Awarded2
 
 `1995 - 1997`
 __University Name__
